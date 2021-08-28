@@ -7,8 +7,10 @@ Belajar Dasar Git dengan GitHub. (Progres 44%)
   * Dasar Git.
   * Studi kasus pengalaman belajar.
 
-
-
+29 Agustus 2021 
+Belajar Dasar Git dengan GitHub. (Progres 66%)
+  * Git Branches
+  * Kolaborasi dengan tim
 
 
 
