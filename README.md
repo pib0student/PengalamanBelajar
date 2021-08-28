@@ -12,6 +12,12 @@ Belajar Dasar Git dengan GitHub. (Progres 66%)
   * Git Branches
   * Kolaborasi dengan tim
 
+**30 Agustus 2021**  
+Belajar Dasar Git dengan GitHub. (Progres 100%)
+  * Studi Kasus Kolaborasi dengan Tim
+  * GitHub sebagai Portfolio
+  * Penutup
+
 
 
 
